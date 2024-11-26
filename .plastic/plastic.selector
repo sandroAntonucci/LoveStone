@@ -1,0 +1,4 @@
+repository "LoveStone@unity_D9622EFE638F2E12E41E@cloud"
+  path "/"
+    br "/main"
+    co "/main"
